@@ -1,4 +1,3 @@
-<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/2f65f56c-c7c1-4a04-bde9-916c8ab7c8a0" /># Laporan Praktikum 6: Twitter Bootstrap
 
 Nama: Muhammad Arkhamullah Rifai Asshidiq
 NIM: [312410545]
