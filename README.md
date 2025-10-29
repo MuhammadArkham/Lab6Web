@@ -56,4 +56,4 @@ Halaman ini juga berfungsi sebagai halaman utama yang me-link ke hasil Tugas 1 d
 **File Hasil:** `portfolio.html`
 
 ### Screenshot Hasil Tugas 3
-![Hasil Halaman Portfolio](foto3.png)
+![Hasil Halaman Portfolio](https://github.com/MuhammadArkham/Lab6Web/blob/main/Screenshot%202025-10-29%20182404.png?raw=true)
