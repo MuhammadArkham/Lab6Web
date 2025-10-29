@@ -1,6 +1,8 @@
 
 Nama: Muhammad Arkhamullah Rifai Asshidiq
+
 NIM: [312410545]
+
 Kelas: [TI24.A5]
 
 ---
@@ -8,7 +10,7 @@ Kelas: [TI24.A5]
 ## 1. Tugas 1: Refactor Layout Praktikum 4
 
 ### Penjelasan Tugas
-[cite_start]Sesuai instruksi [cite: 924-930], tugas ini adalah mengambil layout web sederhana dari Praktikum 4 (file `about.html`) dan membuatnya ulang menggunakan Bootstrap Grid System.
+tugas ini adalah mengambil layout web sederhana dari Praktikum 4 (file `about.html`) dan membuatnya ulang menggunakan Bootstrap Grid System.
 
 **Poin-poin pengerjaan:**
 *Menggunakan komponen `<nav>` Bootstrap untuk navigasi[cite: 926].
