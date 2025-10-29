@@ -1,9 +1,9 @@
 
 Nama: Muhammad Arkhamullah Rifai Asshidiq
 
-NIM: [312410545]
+NIM: 312410545
 
-Kelas: [TI24.A5]
+Kelas: TI24.A5
 
 ---
 
