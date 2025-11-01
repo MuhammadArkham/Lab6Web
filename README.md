@@ -13,13 +13,14 @@ Kelas: TI24.A5
 tugas ini adalah mengambil layout web sederhana dari Praktikum 4 (file `about.html`) dan membuatnya ulang menggunakan Bootstrap Grid System.
 
 **Poin-poin pengerjaan:**
-*Menggunakan komponen `<nav>` Bootstrap untuk navigasi[cite: 926].
+* Menggunakan komponen `<nav>` Bootstrap untuk navigasi[cite: 926].
 * Menggunakan class `.row`, `.col-md-8` (main content), dan `.col-md-4` (sidebar)[cite: 927].
 * Mengganti `.widget-box` dengan komponen `.card` Bootstrap[cite: 928].
 * Mengganti `.box` (3 kolom) dengan komponen `.card` Bootstrap[cite: 929].
 * Tidak ada penggunaan CSS `float` atau `clear` manual[cite: 930].
 
-
+### 
+![Bootstrap](https://github.com/MuhammadArkham/Lab6Web/blob/main/Screenshot%202025-11-01%20162045.png?raw=true)
 
 ### Screenshot Hasil Tugas 1
 ![Hasil Refactor Layout Praktikum 4](https://github.com/MuhammadArkham/Lab6Web/blob/main/Screenshot%202025-11-01%20162229.png?raw=true)
