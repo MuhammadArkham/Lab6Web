@@ -22,7 +22,7 @@ tugas ini adalah mengambil layout web sederhana dari Praktikum 4 (file `about.ht
 
 
 ### Screenshot Hasil Tugas 1
-![Hasil Refactor Layout Praktikum 4](https://github.com/MuhammadArkham/Lab6Web/blob/main/Screenshot%202025-10-29%20182404.png?raw=true)
+![Hasil Refactor Layout Praktikum 4](https://github.com/MuhammadArkham/Lab6Web/blob/main/Screenshot%202025-11-01%20162229.png?raw=true)
 
 ---
 
